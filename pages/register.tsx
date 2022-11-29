@@ -71,7 +71,7 @@ return (
 
     <section >
         <footer className="text-center text-lg-start">
-            <div className="text-center text-navy p-3">
+            <div className="text-center text-white p-3">
                 <b>&#9400; 2022</b>
             </div>
         </footer>
